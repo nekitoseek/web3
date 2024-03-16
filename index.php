@@ -23,13 +23,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="../index.html">Главная страница</a>
+            <a class="nav-link active" aria-current="page" href="../index.php">Главная страница</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../pages/listnews.html">Список новостей</a>
+            <a class="nav-link" href="../pages/listnews.php">Список новостей</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../pages/contacts.html">Контакты</a>
+            <a class="nav-link" href="../pages/contacts.php">Контакты</a>
           </li>
         </ul>
       </div>
@@ -51,42 +51,42 @@
     <div class="card shadow-lg text-bg-light mt-4" style="width: 35rem;">
       <div class="m-3 mb-1">
         <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">29.02.2024</div>
-        <a href="../pages/news1.html"><img src="../images/news1.jpg" class="card-img-top" alt="Энди Андреофф и Кирилл Фастовский"></a>
+        <a href="../pages/news1.php"><img src="../images/news1.jpg" class="card-img-top" alt="Энди Андреофф и Кирилл Фастовский"></a>
       </div>
       <div class="card-body">
           <h5 class="card-title">"Сибирь" сохранила лучшего снайпера</h5>
           <p class="card-text">Продление контракта Андреофф.</p>
-          <a href="../pages/news1.html" class="btn text-light color-sibir">Читать полностью</a>
+          <a href="../pages/news1.php" class="btn text-light color-sibir">Читать полностью</a>
       </div>
     </div>
     <div class="card shadow-lg text-bg-light mt-4" style="width: 35rem;">
       <div class="m-3 mb-1">
-        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">28.02.2024</div>        <a href="../pages/news2.html"><img src="../images/news2.jpg" class="card-img-top" alt="Команда"></a>
+        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">28.02.2024</div>        <a href="../pages/news2.php"><img src="../images/news2.jpg" class="card-img-top" alt="Команда"></a>
       </div>
       <div class="card-body">
         <h5 class="card-title">"Сибирь" подвела итоги сезона</h5>
         <p class="card-text">Генеральный директор, и.о. главного тренера и игроки новосибирской команды подвели итоги сезона.</p>
-        <a href="../pages/news2.html" class="btn text-light color-sibir">Читать полностью</a>
+        <a href="../pages/news2.php" class="btn text-light color-sibir">Читать полностью</a>
       </div>
     </div>
     <div class="card shadow-lg text-bg-light mt-4" style="width: 35rem;">
       <div class="m-3 mb-1">
-        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">26.02.2024</div>        <a href="../pages/news3.html"><img src="../images/news3.jpg" class="card-img-top" alt="удар по воротам"></a>
+        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">26.02.2024</div>        <a href="../pages/news3.php"><img src="../images/news3.jpg" class="card-img-top" alt="удар по воротам"></a>
       </div>
       <div class="card-body justify-content-evenly">
           <h5 class="card-title">"Сибирь" завершила сезон поражением</h5>
           <p class="card-text">Новосибирская команда проиграла в Астане.</p>
-          <a href="../pages/news3.html" class="btn text-light color-sibir">Читать полностью</a>
+          <a href="../pages/news3.php" class="btn text-light color-sibir">Читать полностью</a>
       </div>
     </div>
     <div class="card shadow-lg text-bg-light mt-4" style="width: 35rem;">
       <div class="m-3 mb-1">
-        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">22.02.2024</div>        <a href="../pages/news4.html"><img src="../images/news4.jpg" class="card-img-top" alt="игра возле ворот"></a>
+        <div class="d-inline-flex justify-content-center mb-3 bg-secondary-subtle rounded-5 mx-auto p-1 fw-light">22.02.2024</div>        <a href="../pages/news4.php"><img src="../images/news4.jpg" class="card-img-top" alt="игра возле ворот"></a>
       </div>
       <div class="card-body">
         <h5 class="card-title">"Сибирь" отыгралась с 0:3, но проиграла</h5>
         <p class="card-text">Второй матч сезона против ЦСКА для "Сибири" начался неудачно.</p>
-        <a href="../pages/news4.html" class="btn text-light color-sibir">Читать полностью</a>
+        <a href="../pages/news4.php" class="btn text-light color-sibir">Читать полностью</a>
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@
     <div class="container p-4 mt-4 mb-2 border-top border-bottom">
       <div class="row fw-light">
         <div class="col-4">&copy; 2024 ХК "Сибирь"</div>
-        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.html">Контакты</a></div>
+        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.php">Контакты</a></div>
         <div class="col-5">При создании сайта использовался <a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://getbootstrap.com/">фреймворк Bootstrap v5.3 <img src="../images/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24"></a></div>
       </div>
     </div>

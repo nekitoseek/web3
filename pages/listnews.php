@@ -23,13 +23,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="../index.html">Главная страница</a>
+            <a class="nav-link" aria-current="page" href="../index.php">Главная страница</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="../pages/listnews.html">Список новостей</a>
+            <a class="nav-link active" href="../pages/listnews.php">Список новостей</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../pages/contacts.html">Контакты</a>
+            <a class="nav-link" href="../pages/contacts.php">Контакты</a>
           </li>
         </ul>
       </div>
@@ -38,7 +38,7 @@
 
   <div class="container mt-4">
     <div class="card mb-5 shadow-lg">
-      <a href="../pages/news1.html"><img src="../images/news1.jpg" class="card-img-top"></a>
+      <a href="../pages/news1.php"><img src="../images/news1.jpg" class="card-img-top"></a>
       <div class="card-body px-4">
         <h3 class="card-title">"Сибирь" сохранила лучшего снайпера</h3>
         <p class="card-text">Хоккейный клуб "Сибирь" договорился о продлении контракта с канадским нападающим Энди Андреоффом еще на сезон.</p>
@@ -47,7 +47,7 @@
       </div>
     </div>
     <div class="card mb-5 shadow-lg">
-      <a href="../pages/news2.html"><img src="../images/news2.jpg" class="card-img-top"></a>
+      <a href="../pages/news2.php"><img src="../images/news2.jpg" class="card-img-top"></a>
       <div class="card-body px-4">
         <h3 class="card-title">"Сибирь" подвела итоги сезона</h3>
         <p class="card-text">Генеральный директор «Сибири» Кирилл Фастовский, и.о. главного тренера Сергей Кривокрасов и игроки новосибирской команды подвели итоги сезона.</p>
@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="card mb-5 shadow-lg">
-      <a href="../pages/news3.html"><img src="../images/news3.jpg" class="card-img-top"></a>
+      <a href="../pages/news3.php"><img src="../images/news3.jpg" class="card-img-top"></a>
       <div class="card-body px-4">
         <h3 class="card-title">"Сибирь" завершила сезон поражением</h3>
         <p class="card-text">В заключительном матче сезона "Сибирь" в Астане проиграла "Барысу" со счетом 0:1 (0:0, 0:1, 0:0).</p>
@@ -83,7 +83,7 @@
       </div>
     </div>
     <div class="card mb-5 shadow-lg">
-      <a href="../pages/news4.html"><img src="../images/news4.jpg" class="card-img-top"></a>
+      <a href="../pages/news4.php"><img src="../images/news4.jpg" class="card-img-top"></a>
       <div class="card-body px-4">
         <h3 class="card-title">"Сибирь" отыгралась с 0:3, но проиграла</h3>
         <p class="card-text">Второй матч сезона против ЦСКА для "Сибири" начался неудачно: после первой двадцатиминутки хозяева вели 2-0. А на 27-й минуте встречи и третья шайба оказалась в воротах Антона Красоткина.</p>
@@ -100,7 +100,7 @@
     <div class="container p-4 mt-4 mb-2 border-top border-bottom">
       <div class="row fw-light">
         <div class="col-4">&copy; 2024 ХК "Сибирь"</div>
-        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.html">Контакты</a></div>
+        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.php">Контакты</a></div>
         <div class="col-5">При создании сайта использовался <a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://getbootstrap.com/">фреймворк Bootstrap v5.3 <img src="../images/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24"></a></div>
       </div>
     </div>

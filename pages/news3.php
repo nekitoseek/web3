@@ -7,7 +7,7 @@
   <link href="../style.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-  <title>Контакты</title>
+  <title>Новость</title>
   <link rel="shortcut icon" href="../images/HC_Sibir_Logo.svg.png">
 </head>
 <body>
@@ -23,47 +23,41 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="../index.html">Главная страница</a>
+            <a class="nav-link" aria-current="page" href="../index.php">Главная страница</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../pages/listnews.html">Список новостей</a>
+            <a class="nav-link" href="../pages/listnews.php">Список новостей</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="../pages/contacts.html">Контакты</a>
+            <a class="nav-link" href="../pages/contacts.php">Контакты</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
-
+  
   <div class="container mt-4">
-    <div class="row row-cols-1 row-cols-sm-2 g-4">
-      <div class="col">
-        <div class="card shadow-lg">
-          <img src="../images/nikita.png" class="card-img-top" >
-          <div class="card-body text-center">
-            <h5 class="card-title"><a class="text-dark" href="https://vk.com/mamaev_nikita/">Мамаев Никита</a></h5>
-            <p class="card-text">Студент 3-го курса группы ПМ-15 факультета прикладной математики и информатики</p>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card shadow-lg">
-          <img src="../images/egor.png" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <h5 class="card-title"><a class="text-dark" href="https://vk.com/sosov17/">Сосов Егор</a></h5>
-            <p class="card-text">Студент 3-го курса группы ПМ-15 факультета прикладной математики и информатики</p>
-          </div>
-        </div>
-      </div>
+    <div class="fw-light text-end fst-italic">Дата публикации: 29 февраля 16:44</div>
+    <div class="text-center">
+      <img src="../images/news3.jpg" class="w-100 rounded-4 my-4">
     </div>
   </div>
-  
+  <div class="container">
+    <div class="mb-4"><h3>"Сибирь" завершила сезон поражением</h3></div>
+    <div class="py-3 px-3 bg-secondary-subtle rounded-4">
+      <p>В заключительном матче сезона "Сибирь" в Астане проиграла "Барысу" со счетом 0:1 (0:0, 0:1, 0:0).</p>
+      <p>Единственная шайба была заброшена на 27-й минуте встречи.</p>
+      <p>Ворота защищал Антон Красоткин.</p>
+      <p>Таким образом, "Сибирь" заняла 10-е место в конференции "Восток".</p>
+      <p>Статистика матча: Броски: 55-73 ; Броски в створ: 32-38 ; Голы: 1-0 ; Вбрасывания: 33-21 ; Блокированные броски: 21-10 ; Силовые приемы: 4-8 ; Отборы: 4-2 ; Потери: 9-5 ; Перехваты: 5-7 ; Время в атаке: 13:08-18:17 ; Штраф: 2-6</p>
+    </div>
+  </div>
+
   <footer>
     <div class="container p-4 mt-4 mb-2 border-top border-bottom">
       <div class="row fw-light">
         <div class="col-4">&copy; 2024 ХК "Сибирь"</div>
-        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.html">Контакты</a></div>
+        <div class="col-3"><a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="../pages/contacts.php">Контакты</a></div>
         <div class="col-5">При создании сайта использовался <a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://getbootstrap.com/">фреймворк Bootstrap v5.3 <img src="../images/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24"></a></div>
       </div>
     </div>
